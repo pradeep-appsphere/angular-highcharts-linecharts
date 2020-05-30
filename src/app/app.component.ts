@@ -46,19 +46,19 @@ export class AppComponent {
         }
       },
       series: [{
-        name: '2020',
+        name: 'YEAR 2020',
         color:'red',
         data: [0, 2,1,2.2,1,2.4,5]
     }, {
-        name: '2019',
+        name: 'YEAR 2019',
         color:'green',
         data: [0.5, 1.4, 3, 3, 2, 3, 2.2, 5],
     }, {
-        name: '2018',
+        name: 'YEAR 2018',
         color:'blue',
         data: [0, 1, 2, 2.4, 1.5, 2, 3.2, 4.5],
     },{
-        name: '2018',
+        name: 'YEAR 2017',
         color:'orange',
         data: [0.5, 4, 0.5, 1.4, 2.5, 0.1, 2.2, 2],
     }],
